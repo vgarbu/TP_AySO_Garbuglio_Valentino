@@ -1,0 +1,260 @@
+cd repogit
+ls -l
+cd ..
+exit
+ls
+ls -l
+pwd
+wwhoami
+whoami
+man
+man man
+man pwd
+ls -la
+cd .ssh
+ls -la
+cd ..
+cat /etc/group
+ls -l
+cat *.txt
+cat readme
+cat README
+sudo cat README
+mkdir clase4
+ls -l
+cd clase4
+cat > archivo1.txt
+ls -l
+car archivo1.txt 
+cat archivo1.txt
+cat << archivo1.xt
+car << archivo.txt
+linea 1
+linea 2
+linea 3
+
+ls
+cat archivo.txt
+cat << archivo1.txt
+linea1
+linea2
+linea3
+
+cat archivo1.txt
+cat << FIN
+cat << FIN >archivo2.txt
+linea 4
+linea 5
+linea 6
+FIN
+
+ls -l
+cat archivo1.txt > archivo3.txt
+ls -l
+cat archivo3.txt
+cat archivo2.txt >> archivo3.txt
+cat archivo3.txt
+cat archivo1.txt > archivo3.txt
+cat archivo3.txt
+cat archivo2.txt archivo1.txt > archivo4.txt
+cat archivo4.txt
+grep 6 archivo3.txt
+grep 6 archivo4.txt
+grep -v 6 archivo4.txt
+grep -n 6 archivo4.txt
+grep linea archivo4.txt
+grep -i Linea archivo4.txt
+grep -i -c Linea archivo4.txt
+grep -i -c 6 archivo4.txt
+ssh-keygen -t ed25519
+rmdir archivo.txt
+touch vacio.txt
+ls -l
+rmdir vacio.txt
+ls -l
+cd clase4
+rmdir clase4.txt
+touch vacio.txt
+cp archivo1.txt copia1.txt
+ls -l
+mkdir vacia
+ls -l
+ls -l vacia/
+ls -l
+mv vacio.txt vacio/
+mv vacio.txt vacia/
+ls -l
+rm -r vacia/
+ls -l
+mkdir dir1 dir2 dir3 
+ls -l
+tree
+sudo apt install tree
+sudo snap install tree
+tree
+mkdir -p alumnos/alumno1/teoria
+tree
+mkdir -p {dir1,dir2}/subdir{1..3}
+tree
+mkir -p {comprass/{remitos,,facturas},ventas/{remitos,facturas,nc}}
+mkdir -p {comprass/{remitos,,facturas},ventas/{remitos,facturas,nc}}
+ls -l
+tree
+whoim
+whoaim
+id
+whoami
+cat /etc/passwd
+grep vagrant etc/passwd
+grep vagrant /etc/passwd
+cat /end
+groupadd Alumnos
+sudo groupadd Alumnos
+sudo useradd -m -s /bin/bash -c "Valentino" -G Valentino
+cat /etc/group
+sudo useradd -m -s /bin/bash -c "Valentino" -G Valentino
+sudo useradd -m -s /bin/bash /c "Alumnos" -G Valentino
+sudo useradd -m -s /bin/bash -c "Valentino" -G Alumnos pepe
+cat /etc/group
+sudo passwd pepe
+su - pepe
+exit
+ls -l
+cd clase4
+ls -l
+useradd -m -s /bin/bash -c "Valentino" Valentino
+cd ...
+cd ..
+~ useradd -m -s /bin/bash -c "Valentino" Valentino
+sudo useradd -m -s /bin/bash -c "Valentino" Valentino
+ls -l
+ls -l /home
+passwd Valentino
+sudo passwd Valentino
+su Valentino
+su - Valentino
+pwd
+su - Valentino
+pwd
+
+sudo ls -l /home/Valentino
+su - Valentino
+mkdir clase5 
+ls -l 
+cat README
+cat << FIN > stript1
+Hola
+echo hola
+rmdir clase5
+ls -l
+cat README
+FIN
+
+cat scritpt1
+cat script1
+cat stript1
+bash stript1
+bin stript2
+vim script2
+ls -l
+cat script2.sh
+cat script2
+vim script2
+vim script2.sh
+cat script2.sh
+chmod 764 script2.sh
+ls -l
+rm script2
+ls -l
+./script2.sh
+clean
+clear
+pw
+pwd
+ssh-keygen -t ed25519
+ls -la
+ls -la .ssh/
+cat $HOME/.ssh/*.pub
+cd repogitt
+cd repogit
+git clone git@github.com:vgarbu/TP_AySO_Garbuglio_Valentino.git
+ls -l
+cat /etc/os-release
+cd TP_AySO_Garbuglio_Valentino
+grep -i Home_url /etc/os-release
+grep <parámetro> Home_url /etc/os-release >
+datos_url.txt 
+grep <parámetro> Home_url /etc/os-release >
+datos_url.txt 
+grep -i Home_url /etc/os-release >
+datos_url.txt 
+grep -i Home_url /etc/os-release > datos_url.txt
+git add .
+git status
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_url.txt
+git config --global user.email valetinogarbuglio@gmail.com
+git config --global user.name "TuUsuario""TuUsuario"
+git config --global user.name vgarbu
+git commit -m "ADD: agregado 1er
+txt"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_url.txt"
+git staus
+git status
+git push
+whoaim
+echo “Usuario=$(whoami)” > datos_usuario.txt
+git commit-m "ADD:agregado 1er ejercicio sobre datos_usuario.txt"
+git commit -m "ADD: agregado 1er
+
+\
+exit
+cdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcccdccdcdaaaaaaaaaaaaaaaaaaaaaasifuhasuifghayighfgajgvasjabulifiuaws iks vfakesghjksawyuklSfvyihjkasdfbyiu8o
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+narlaarrereerrrrrrrrrrrrdhgbfbdfrbugararrrrrrrrrrrrrjhkasdgfyugaef
+d[Cdfdadad dsassdasdusit tttttttttttttgit commit -m "ADD: agregado 1erass
+ejercicio sobre datos_usuarios.txtgit commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+
+
+
+
+gitgggg>git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt" 
+
+-m-mejjroboejercicio sobre datos_usuarios.txt" fsdfasdasd dcddcdcccccyujkcfgcrfyjcftyujccdcdcdcccccvvsfasshfvasgufkvbfuialsbfyilefasbvbfghuahjvfvaewbqaletg yiueqlh;tw
+cd repogit
+ls -l
+cd TP_AySO_Garbuglio_Valentino/
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+cat <<EOF >> README.md
+
+Alumno: Valentino
+Division: 211
+Turno: Tarde
+EOF
+
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mkdir -p ~/materia{1,2}/uni{1,2,3}
+tree ~/materia1 ~/materia2
+ls -l
+nano script_dir.sh
+cd repogit
+cd TP_AySO_Garbuglio_Valentino/
+cat << 'EOF' > script_dir.sh
+mkdir -p ~/materia{1,2}/uni{1,2,3}
+EOF
+
+chmod
+chmod +x script_dir.sh
+ls /l
+ls -l
+ls -R
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
